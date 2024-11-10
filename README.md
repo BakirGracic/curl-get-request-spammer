@@ -44,3 +44,7 @@ Debian example: `sudo apt install curl parallel bc`
 - use `-s` or `--silent` argument to disable request statuses
 
 - input script variables best suiting your needs
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
